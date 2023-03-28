@@ -1,4 +1,4 @@
-## Olá, eu sou o Victor Gonçalves, desenvolvedor de software Full-Stack!
+## Olá, meu nome é Victor Gonçalves e sou Full-Stack Developer!
 
 <div>
   <a href="https://github.com/goncalvesvictor">
